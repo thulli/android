@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App Portfolio</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="App1"> Spotify Streamer</string>
+    <string name="App2"> Scores App</string>
+    <string name="App3"> Library App</string>
+    <string name="App4"> Build It Bigger</string>
+    <string name="App5"> XYZ Reader</string>
+    <string name="App6"> CAPSTONE: MY OWN APP</string>
+    <string name="nano_app_names"> My Nanodegree Apps</string>
+</resources>
